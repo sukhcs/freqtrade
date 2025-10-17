@@ -116,6 +116,7 @@ def ask_user_config() -> dict[str, Any]:
                 "kraken",
                 "kucoin",
                 "okx",
+                "ibkr",
                 Separator("------------------"),
                 "other",
             ],

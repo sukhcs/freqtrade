@@ -64,6 +64,7 @@ SUPPORTED_EXCHANGES = [
     "kraken",
     "okx",
     "myokx",
+    "ibkr"
 ]
 
 # either the main, or replacement methods (array) is required
